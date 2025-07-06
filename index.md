@@ -1,6 +1,6 @@
 # About me
 
-Research Engineer @ CyberAgent AI Lab
+**Work**: Research Engineer @ CyberAgent AI Lab
 
 **Interests**: Dialogue System, Character AI
 
