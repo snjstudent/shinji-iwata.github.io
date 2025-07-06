@@ -1,3 +1,4 @@
 remote_theme: 5iddy/neonnights-jekyll-theme
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
