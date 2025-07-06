@@ -1,1 +1,0 @@
-# shinji-iwata.github.io
