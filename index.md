@@ -1,4 +1,4 @@
-# About me
+## About me
 
 **Work**: Research Engineer @ CyberAgent AI Lab
 
@@ -17,7 +17,7 @@
 **名古屋大学 情報学研究科 知能システム学専攻 修士課程**
 
 <small>2017/04 - 2021/03</small><br>
-**名古屋大学 情報学部 コンピュータ科学科 学士過程**
+**名古屋大学 情報学部 コンピュータ科学科 学士課程**
 
 ## Publications
 
