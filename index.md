@@ -4,8 +4,6 @@
 
 **Interests**: Dialogue System, Character AI
 
-Mail : iwata_shinji@cyberagent.co.jp
-<br>
 [X(Twitter)](https://twitter.com/siwata_2023)
 
 ## Career
