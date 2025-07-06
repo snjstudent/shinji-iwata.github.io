@@ -1,24 +1,23 @@
-# 岩田 伸治 - Shinji Iwata
+# About me
 
-**Research Engineer @ CyberAgent AI Lab**
-
-対話システム関連のエンジニアリングや研究に興味があります。
+Research Engineer @ CyberAgent AI Lab
+**Interests**: Dialogue System, Character AI
 
 Mail : iwata_shinji@cyberagent.co.jp
-
+<br>
 [X(Twitter)](https://twitter.com/siwata_2023)
 
 ## Career
 
-<small>2023.04-</small><br>
+<small>2023/04 - </small><br>
 **サイバーエージェント AI Lab**
 
 ## Education
 
-<small>2021.04-2023.03</small><br>
+<small>2021/04 - 2023/03</small><br>
 **名古屋大学 情報学研究科 知能システム学専攻 修士課程**
 
-<small>2017.04-2021.03</small><br>
+<small>2017/04 - 2021/03</small><br>
 **名古屋大学 情報学部 コンピュータ科学科 学士過程**
 
 ## Publications
