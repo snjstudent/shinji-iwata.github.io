@@ -27,7 +27,7 @@ Mail : iwata_shinji@cyberagent.co.jp
 
 <small>SIGDIAL 2025</small><br>
 **Identification and Analysis of Identity-Centric Elements of Character-Likeness from Game Scenario**<br>
-<small>**<u>Shinji Iwata</u>**, Koya Ihara, Shiki Sato, Jun Baba, **Asahi Hentona**, Masahiro Yamazaki, Yuki Shiotsuka, Takahiro Ishizue, Akifumi Yoshimoto</small>
+<small>**<u>Shinji Iwata</u>**, Koya Ihara, Shiki Sato, Jun Baba, Asahi Hentona, Masahiro Yamazaki, Yuki Shiotsuka, Takahiro Ishizue, Akifumi Yoshimoto</small>
 
 <small>SIGDIAL 2025</small><br>
 **Key Challenges in Multimodal Task-Oriented Dialogue Systems: Insights from a Large Competition-Based Dataset**<br>
@@ -69,11 +69,11 @@ Mail : iwata_shinji@cyberagent.co.jp
 
 <small>第 15 回対話システムシンポジウム (2024/09)</small><br>
 **ゲームの台詞を題材としたキャラクターらしさに寄与する要素の選定**<br>
-<small>**<u>岩田伸治</u>**, 伊原滉也, 佐藤志貴, 馬場淳, \*\*邊土名朝飛\*\*, 山﨑眞洋, 塩塚勇気, 吉本暁文</small>
+<small>**<u>岩田伸治</u>**, 伊原滉也, 佐藤志貴, 馬場淳, 邊土名朝飛, 山﨑眞洋, 塩塚勇気, 吉本暁文</small>
 
 <small>NLP 若手の会 (YANS) 第 19 回シンポジウム (2024/09) **奨励賞** 🏆️</small><br>
 **ゲームの台詞を題材としたキャラクターらしさを構成する要素の検討**<br>
-<small>**<u>岩田伸治</u>**, 伊原滉也, 佐藤志貴, 馬場惇, **邊土名朝飛**, 山﨑眞洋, 塩塚勇気, 吉本暁文</small>
+<small>**<u>岩田伸治</u>**, 伊原滉也, 佐藤志貴, 馬場惇, 邊土名朝飛, 山﨑眞洋, 塩塚勇気, 吉本暁文</small>
 
 <small>NLP 若手の会 (YANS) 第 19 回シンポジウム (2024/09)</small><br>
 **プライベート空間における人-エージェント間雑談対話データセットの構築に向けて**<br>
