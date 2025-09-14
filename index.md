@@ -23,7 +23,7 @@
 
 ### International Conferences
 
-<small>SIGDIAL 2025</small><br>
+<small>SIGDIAL 2025 **Best Paper Award Nominee** 🏆️</small><br>
 **Identification and Analysis of Identity-Centric Elements of Character-Likeness from Game Scenario**<br>
 <small>**<u>Shinji Iwata</u>**, Koya Ihara, Shiki Sato, Jun Baba, Asahi Hentona, Masahiro Yamazaki, Yuki Shiotsuka, Takahiro Ishizue, Akifumi Yoshimoto</small>
 
@@ -44,6 +44,10 @@
 <small>Tomoko Yonezawa, **<u>Shinji Iwata</u>**, Naoto Yoshida, Kenji Mase, Yu Enokibori</small>
 
 ### Domestic Conferences
+
+<small>第 24 回情報科学技術フォーラム (2025/09)</small><br>
+**キャラクターシナリオ自動生成に向けた新規情報判定の検討**<br>
+<small>高橋 聖弥, **<u>岩田 伸治</u>**, 伊原 滉也, 加藤 昇平</small>
 
 <small>人工知能学会全国大会 第 39 回 (2025/05)</small><br>
 **現実世界の出来事に対するキャラクターらしい発話生成の実験的評価**<br>
@@ -98,6 +102,10 @@
 <small>**<u>岩田伸治</u>**, 吉田直人, 米澤朋子, 榎堀優, 間瀬健二</small>
 
 ## Awards
+
+<small>2025</small><br>
+**Best Paper Award Nominee**<br>
+<small>SIGDIAL 2025</small>
 
 <small>2024</small><br>
 **奨励賞**<br>
