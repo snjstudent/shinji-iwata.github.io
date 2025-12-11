@@ -21,7 +21,15 @@
 
 ## Publications
 
+### Journals
+<small>日本音響学会誌</small><br>
+**対話システムライブコンペティションにおけるマルチモダリティの活用**<br>
+<small>東中竜一郎, 佐々木裕多, 守屋彰二, 佐藤志貴, **<u>岩田伸治</u>**, 山崎天, 高橋哲朗, 小室允人</small>
+
 ### International Conferences
+<small>EMNLP 2025</small><br>
+**Proactive User Information Acquisition via Chats on User-Favored Topics**<br>
+<small>Shiki Sato, Jun Baba, Asahi Hentona, **<u>Shinji Iwata</u>**, Akifumi Yoshimoto, Koichiro Yoshino</small>
 
 <small>SIGDIAL 2025 **Best Paper Award Nominee** 🏆️</small><br>
 **Identification and Analysis of Identity-Centric Elements of Character-Likeness from Game Scenario**<br>
@@ -44,6 +52,21 @@
 <small>Tomoko Yonezawa, **<u>Shinji Iwata</u>**, Naoto Yoshida, Kenji Mase, Yu Enokibori</small>
 
 ### Domestic Conferences
+<small> 第23回情報学ワークショップ (2025/12) **奨励賞** 🏆️</small><br>
+**LLMを用いたキャラクターの顕在属性検出手法の提案  ―キャラクターの魅力を引き出すシナリオ生成に向けて―**<br>
+<small>高橋 聖弥, **<u>岩田 伸治</u>**, 伊原 滉也, 加藤 昇平</small>
+
+<small> 第16回対話システムシンポジウム (2025/11)</small><br>
+**対話ライブコンペ7タスクトラックから得られた知見と今後の展開**<br>
+<small>佐藤志貴,  **<u>岩田伸治</u>**, 邊土名朝飛, 佐々木裕多, 山崎天, 守屋彰二, 大萩雅也, 菊池浩史, 楊潔, 斉志揚, 児玉貴志, 李晃伸, 小室允人, 西川寛之, 牧野遼作, 港隆史, 境くりま, 船山智, 船越孝太郎, 宇佐美まゆみ, 稲葉通将, 高橋哲朗, 東中竜一郎</small>
+
+<small> 第16回対話システムシンポジウム (2025/11)</small><br>
+**対話ライブコンペ7タスクトラックから得られた知見と今後の展開**<br>
+<small>佐藤志貴,  **<u>岩田伸治</u>**, 邊土名朝飛, 佐々木裕多, 山崎天, 守屋彰二, 大萩雅也, 菊池浩史, 楊潔, 斉志揚, 児玉貴志, 李晃伸, 小室允人, 西川寛之, 牧野遼作, 港隆史, 境くりま, 船山智, 船越孝太郎, 宇佐美まゆみ, 稲葉通将, 高橋哲朗, 東中竜一郎</small>
+
+<small> 第16回対話システムシンポジウム (2025/11)</small><br>
+**対話ライブコンペ7シチュエーショントラックにおける人間関係への配慮とその効果の分析**<br>
+<small>高橋哲朗, 菊池浩史, 楊潔, 西川寛之, 小室允人, 牧野遼作, 佐藤志貴, 佐々木裕多, **<u>岩田伸治</u>**, 邊土名朝飛, 山崎天, 守屋彰二, 大萩雅也, 斉志揚, 児玉貴志, 李晃伸, 港隆史, 境くりま, 船山智, 船越孝太郎, 宇佐美まゆみ, 稲葉通将, 東中竜一郎</small>
 
 <small>第 24 回情報科学技術フォーラム (2025/09)</small><br>
 **キャラクターシナリオ自動生成に向けた新規情報判定の検討**<br>
@@ -102,6 +125,9 @@
 <small>**<u>岩田伸治</u>**, 吉田直人, 米澤朋子, 榎堀優, 間瀬健二</small>
 
 ## Awards
+<small>2025</small><br>
+**奨励賞**<br>
+<small>第23回情報学ワークショップ (共著)</small>
 
 <small>2025</small><br>
 **Best Paper Award Nominee**<br>
